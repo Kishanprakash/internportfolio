@@ -10,7 +10,7 @@ function Contact(){
             
             <form action="">
                 <div className="raam">
-    <h2 align="center">REGISTRATION FORM</h2>
+    <h2 align="center">REGISTer FORM</h2>
     </div>
     <table align="center">
 <caption><strong> Fill in the blanks</strong></caption>
