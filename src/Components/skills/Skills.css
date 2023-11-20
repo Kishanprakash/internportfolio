@@ -1,0 +1,28 @@
+#heading
+{
+    text-align: center;
+    background-color: rgb(226, 228, 227);
+}
+ul
+{
+    font-size: 50psx;
+    color: rgb(22, 22, 26);
+    font-family: cursive;
+    text-align: center;
+    list-style-type: none;
+    background-color: rgb(241, 239, 223);
+    margin: 50px;
+    
+}
+h2{
+    
+    text-align: center;
+    color:      rgb(19, 12, 26);
+font-family: cursive;
+    margin: 20px;
+    border-radius: 30;
+
+}
+body{
+    background-color: rgb(235, 229, 223);
+}
